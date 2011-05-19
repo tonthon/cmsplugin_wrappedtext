@@ -1,0 +1,6 @@
+include *.txt
+include README.rst
+include setup.py
+include setup.cfg
+include cmsplugin_wrappedtext/*.py
+include cmsplugin_wrappedtext/templates/plugins/wrappedtext/*.html
