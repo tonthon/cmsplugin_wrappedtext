@@ -27,3 +27,6 @@ Build::
 Configuration
 
 Add cmsplugin_wrappertext to your plugin entry in the settings.py file
+Launch the syncdb command from inside your project::
+
+    python manage.py syncdb
